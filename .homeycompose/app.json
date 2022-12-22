@@ -1,0 +1,24 @@
+{
+  "id": "com.netgear.meural",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": ["local"],
+  "name": {
+    "en": "Meural"
+  },
+  "description": {
+    "en": "Add support for the Netgear Meural digital art frame."
+  },
+  "category": ["appliances"],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Edwin Westerhoud",
+    "email": "homey.app@westerhoud.nl"
+  }
+}
