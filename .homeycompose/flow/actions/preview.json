@@ -1,0 +1,18 @@
+{
+  "title": {
+    "en": "Show image",
+    "nl": "Toon foto"
+  },
+  "hint": {
+    "en": "Display an temporary image.",
+    "nl": "Toon tijdelijk een foto."
+  },
+  "droptoken": ["image"],
+  "args": [
+    {
+      "name": "device",
+      "type": "device",
+      "filter": "driver_id=canvas-2"
+    }
+  ]
+}

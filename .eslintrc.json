@@ -1,3 +1,18 @@
 {
-  "extends": "athom"
+  "extends": "athom",
+  "rules": {
+    "strict": "off",
+    "quotes": ["error", "double"],
+    "padded-blocks": "off",
+    "node/no-unsupported-features/es-syntax": [
+      "error",
+      { "ignores": ["modules"] }
+    ],
+    "node/no-unpublished-import": [
+      "error",
+      {
+        "allowModules": ["homey"]
+      }
+    ]
+  }
 }

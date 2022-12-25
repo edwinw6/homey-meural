@@ -5,10 +5,12 @@
   "sdk": 3,
   "platforms": ["local"],
   "name": {
-    "en": "Meural"
+    "en": "Meural",
+    "nl": "Meural"
   },
   "description": {
-    "en": "Add support for the Netgear Meural digital art frame."
+    "en": "Add support for the Netgear Meural digital art frame.",
+    "nl": "Ondersteuning voor de Netgear Meural digitale fotolijst."
   },
   "category": ["appliances"],
   "permissions": [],
