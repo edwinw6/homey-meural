@@ -1,3 +1,3 @@
 # Meural
 
-Add support for the Netgear Meural digital art frame.
+Add support for the Netgear Meural digital art frame to Homey.

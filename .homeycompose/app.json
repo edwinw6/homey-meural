@@ -9,18 +9,23 @@
     "nl": "Meural"
   },
   "description": {
-    "en": "Add support for the Netgear Meural digital art frame.",
-    "nl": "Ondersteuning voor de Netgear Meural digitale fotolijst."
+    "en": "Smart art for your home",
+    "nl": "Slimme kunst voor in huis"
   },
   "category": ["appliances"],
+  "tags": {
+    "en": ["netgear", "meural", "digital", "art", "picture", "photo", "frame"],
+    "nl": ["netgear", "meural", "digitale", "fotolijst", "kunst", "foto"]
+  },
   "permissions": [],
+  "brandColor": "#BC8E6A",
   "images": {
-    "small": "/assets/images/small.png",
-    "large": "/assets/images/large.png",
-    "xlarge": "/assets/images/xlarge.png"
+    "small": "/assets/images/small.jpg",
+    "large": "/assets/images/large.jpg",
+    "xlarge": "/assets/images/xlarge.jpg"
   },
   "author": {
     "name": "Edwin Westerhoud",
-    "email": "homey.app@westerhoud.nl"
+    "email": "homey-meural@westerhoud.nl"
   }
 }
