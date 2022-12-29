@@ -27,5 +27,9 @@
   "author": {
     "name": "Edwin Westerhoud",
     "email": "homey-meural@westerhoud.nl"
+  },
+  "source": "https://github.com/edwinw6/homey-meural",
+  "bugs": {
+    "url": "https://github.com/edwinw6/homey-meural/issues"
   }
 }
