@@ -18,6 +18,25 @@
   "category": [
     "appliances"
   ],
+  "tags": {
+    "en": [
+      "netgear",
+      "meural",
+      "digital",
+      "art",
+      "picture",
+      "photo",
+      "frame"
+    ],
+    "nl": [
+      "netgear",
+      "meural",
+      "digitale",
+      "fotolijst",
+      "kunst",
+      "foto"
+    ]
+  },
   "permissions": [],
   "brandColor": "#BC8E6A",
   "images": {
@@ -28,6 +47,10 @@
   "author": {
     "name": "Edwin Westerhoud",
     "email": "homey-meural@westerhoud.nl"
+  },
+  "source": "https://github.com/edwinw6/homey-meural",
+  "bugs": {
+    "url": "https://github.com/edwinw6/homey-meural/issues"
   },
   "flow": {
     "actions": [

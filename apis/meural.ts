@@ -142,7 +142,7 @@ class MeuralApi {
     }
 
     if (contentType !== "image/jpeg" && contentType !== "image/png") {
-      throw new Error(`Unsupported image type: ${contentType}`);
+      throw new Error(`This file type is not supported (${contentType})`);
     }
 
     const data = new FormData();
